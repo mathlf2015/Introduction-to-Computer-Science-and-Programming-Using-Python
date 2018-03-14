@@ -1,5 +1,5 @@
 # learn_python
-###some code about learn python
+### some code about learn python
 
 1. code_note 学习python的代码
 2. course_edx_python  EDX平台MIT课程Introduction to Computer Science and Programming Using Python 的笔记和课后作业的代码
